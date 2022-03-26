@@ -1,2 +1,2 @@
 # faculdade
-nao precisa
+Compilacao de exercicios da Faculdade 
